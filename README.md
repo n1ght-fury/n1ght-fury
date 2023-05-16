@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [LDSK](https://ldsk.io/)
 
-- 🌱 I’m currently learning **DevOps World**
+- 🌱 I’m currently in **DevOps World**
 
 - 💬 Ask me about **e-sport**
 
